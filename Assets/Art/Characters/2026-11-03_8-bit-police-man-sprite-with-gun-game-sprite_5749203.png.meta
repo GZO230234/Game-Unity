@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: 96ef6c85debfdc8418e0ab221a8bb6aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4612282052601062399
+    second: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 651
+        width: 83
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cddcaf8e1edffb0800000000000000
+      internalID: -4612282052601062399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 651
+        width: 86
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8f3bd10e034b49a904bcfcd27c5be
+      internalID: -176178597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 653
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba073ad0889b4c54f973547c0f4a7dd3
+      internalID: 470182116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 653
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a4ee2c0173bf4b9cf68790e0a5ba8
+      internalID: 122615822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 654
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b6ae4c754f20249b84370d51e7a042
+      internalID: 1455798109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 725
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abe42e3ff2c945448b67956a33e0489
+      internalID: -328897130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 626
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87fbffc3c662842a5114b95d9d768e
+      internalID: 1061984388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_7
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 626
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc96f8b38b03f614c81fa8d1ae37267f
+      internalID: 880896978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_8
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 626
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c3ef14b7be0440a5fdf2d1550456d
+      internalID: -1166667023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 626
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4e5a305e4102f4899515e36eb5f84f
+      internalID: -904395161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_10
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 626
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565eccc3b43631f41b9c982e93d7e1e1
+      internalID: 1421236366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 452
+        width: 75
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd21fd1fe36f234b98c58b82dd1b1bd
+      internalID: 1912920830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 437
+        width: 82
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99feac5adf423e145b22455f9cd30ada
+      internalID: 334809920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 440
+        width: 77
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3f5d75f256f574897dcad7488964a6
+      internalID: -654476518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 450
+        width: 72
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919fd9c3783910548ada607ae41fbe19
+      internalID: -1463894268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_15
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 468
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2057161b7d334899dfe2ca79d7134
+      internalID: -916689809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_16
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 536
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27475a8a915dd846a6ba7f023ceb28e
+      internalID: -584624684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 437
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181b1d051c1331b40a310fa6cbcffd01
+      internalID: -533503632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 437
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d3d0ea00ca2254c93ff477ce02eb07
+      internalID: 160269082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 437
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9747f95294fe2d647874512363e7f126
+      internalID: -4051319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_20
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 437
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121821bf4fe47d547ad92272a808f82b
+      internalID: 38605616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_21
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 437
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fae6641648d8a4ba76ab15d862d9b1
+      internalID: 1556518526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 266
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc844092ec57694bba0dcebf773e2ca
+      internalID: 1271647924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 279
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d20fe620fd33794ead60ac76640b99d
+      internalID: 1719529616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_24
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 264
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22fffa11da7dc04aa30982c67799b00
+      internalID: -861214545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 282
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46277febc8475cf4fbd44d6670ceedc4
+      internalID: -1831524388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_26
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 283
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827ce1de58928940be7fd82bd8566d3
+      internalID: -513204805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_27
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 260
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46215366b77e734a91baa6ad5113582
+      internalID: -457346194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_28
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 251
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10badbb3b6d2e1847b34fc5ce5ded5fc
+      internalID: 205668763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_29
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 251
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a33236cff4393944b1b04c487778bc0
+      internalID: 1806300363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 251
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adbdb1ce51b60f418a2c14d92bbbec1
+      internalID: 642995342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_31
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 251
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a872a06b0a51c48aa06f645fbc137d
+      internalID: -236215803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_32
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 251
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702379ea3fb907241b15011eaa6ee8cd
+      internalID: 350767183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 205
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bebe0123239b442ba8a34ecd240920
+      internalID: 2062121261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 83
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d985b8f77bd89048b01b52d39241a59
+      internalID: 1907506476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 68
+        width: 68
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33034124b461d1244a7b67f8f521e9d2
+      internalID: -797965769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 65
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15576c4f678b9a94eac2c4e71f30382c
+      internalID: 1094376124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_37
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 69
+        width: 68
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d0d67574b2f5a49a98c1992a5d8335
+      internalID: -1154468743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_38
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 85
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c173fe6259734eb1c6a1774ad52f6
+      internalID: 1273372861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_39
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 54
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fedbbb56fad204ebf578bff6c2fd3b
+      internalID: 574640010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_40
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 54
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126098b2bdcfb441978097ab1e1cd0d
+      internalID: -1050369812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_41
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 54
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb3c9f5e4b559f4ab835708a729ffd8
+      internalID: -1798169579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_42
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 54
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1fef6cc05128b439a0e218cf4e3312
+      internalID: -894168411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_43
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 54
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c0a5a01b1db57418ab818b7e6d50a2
+      internalID: -170722250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fcb5aa3a6aa15854fa1d867f2b57bcdd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_0: -4612282052601062399
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_1: -176178597
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_10: 1421236366
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_11: 1912920830
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_12: 334809920
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_13: -654476518
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_14: -1463894268
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_15: -916689809
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_16: -584624684
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_17: -533503632
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_18: 160269082
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_19: -4051319
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_2: 470182116
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_20: 38605616
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_21: 1556518526
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_22: 1271647924
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_23: 1719529616
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_24: -861214545
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_25: -1831524388
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_26: -513204805
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_27: -457346194
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_28: 205668763
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_29: 1806300363
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_3: 122615822
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_30: 642995342
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_31: -236215803
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_32: 350767183
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_33: 2062121261
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_34: 1907506476
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_35: -797965769
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_36: 1094376124
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_37: -1154468743
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_38: 1273372861
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_39: 574640010
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_4: 1455798109
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_40: -1050369812
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_41: -1798169579
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_42: -894168411
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_43: -170722250
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_5: -328897130
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_6: 1061984388
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_7: 880896978
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_8: -1166667023
+      2026-11-03_8-bit-police-man-sprite-with-gun-game-sprite_5749203_9: -904395161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
