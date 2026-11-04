@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 8bd3ea1ed18367b4ca75ea6c881699f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3257540152718076421
+    second: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_0
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 771
+        width: 71
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a255c728b153d20800000000000000
+      internalID: 3257540152718076421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 771
+        width: 72
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c390d7f3ae834cb4550157bd50767
+      internalID: 1300990784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 771
+        width: 76
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a16ed52fa5de43b7c90c7cc694394
+      internalID: 36624301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 771
+        width: 72
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f5463fccc416246bcba05c391d5778
+      internalID: 474941585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 584
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f047ef1066dcdf42b9b2e9495881c0b
+      internalID: 1618783228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 584
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a891ab58d3796e144a03104267440404
+      internalID: -1808643875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 584
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744aa2699f7512a4bbb732e535b746b3
+      internalID: 203052062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_7
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 692
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91743a444daf249a03609db0c88d29
+      internalID: -2026221309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_8
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 584
+        width: 88
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f6bd80a739894799325d5ef66315d
+      internalID: 168817923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 584
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1c1fd71e033d84eb811bfc65a48d15
+      internalID: -1017374574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 415
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bda9184fc22f7419d4d6408b806de3
+      internalID: 1943785835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 410
+        width: 103
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8318d4603ace41b1a43e4bd032431
+      internalID: -363966908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 410
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124ac60067be6342b6046a98c3dcd19
+      internalID: -1909277424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 410
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0153a6752a2ffe34fa0870e9a8a83968
+      internalID: -700123861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 410
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd17d4b21e38034d99b2442c3dec176
+      internalID: 1270470554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 318
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2412620d6966d1459c110d9b8df4a92
+      internalID: -1209740212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 218
+        width: 81
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aed00477ed2d64e846afcb2d660de3
+      internalID: -1911286277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 218
+        width: 131
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a370df5a076b81438f0e205a0ace43c
+      internalID: -296006233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 218
+        width: 121
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c93e80eefaced45bbec72e79e27537
+      internalID: 2012117729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_19
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 314
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975101f414f65045b3c4e88c2796179
+      internalID: -1011121139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 218
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579cd38697848874e92f09a986da9c97
+      internalID: -810644458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_21
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 218
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d058934e2ecd4d43b67b05d9697e800
+      internalID: 279273827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 164
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d1f14591d2c945a4519e4a380a1a6
+      internalID: -636657102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_23
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 155
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a10d9343a615a34bbf3d2cd6edd2d13
+      internalID: -1205033599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a04c4dfd33dcc48b6a337b4522a83d
+      internalID: 698272795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74241912e6a964447bc00900015ba49b
+      internalID: 1016258334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7d42d0f8dae5749b7b445020864cd2
+      internalID: -560677120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_27
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 48
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876cb545cf8384429874d57af3febc3
+      internalID: -1113064111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 515a8b70f94211e43ad69e9b3312714a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_0: 3257540152718076421
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_1: 1300990784
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_10: 1943785835
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_11: -363966908
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_12: -1909277424
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_13: -700123861
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_14: 1270470554
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_15: -1209740212
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_16: -1911286277
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_17: -296006233
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_18: 2012117729
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_19: -1011121139
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_2: 36624301
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_20: -810644458
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_21: 279273827
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_22: -636657102
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_23: -1205033599
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_24: 698272795
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_25: 1016258334
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_26: -560677120
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_27: -1113064111
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_3: 474941585
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_4: 1618783228
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_5: -1808643875
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_6: 203052062
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_7: -2026221309
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_8: 168817923
+      2026-11-03_8-bit-police-man-sprite-with-baton-game-sprite_5749191_9: -1017374574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance { get; private set; }
 
     [SerializeField] private GameObject gameOverPanel;
+    [SerializeField] private MusicManager musicManager;
 
     private bool gameOver;
 
@@ -29,6 +30,12 @@ public class GameManager : MonoBehaviour
             return;
 
         gameOver = true;
+
+        if (musicManager != null)
+        {
+            musicManager.StopMusic();
+        }
+
         gameOverPanel.SetActive(true);
         Time.timeScale = 0f;
     }
